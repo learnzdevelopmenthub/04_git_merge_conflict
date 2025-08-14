@@ -1,3 +1,5 @@
 hello feature
 
 hello new
+
+new line for second file
